@@ -1,1 +1,1 @@
-# sql-financial-project
+# Bank Marketing Financial Project
