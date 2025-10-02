@@ -19,3 +19,7 @@ b.	Does the duration of the last call significantly impact the probability of su
 a.	Can we predict whether a customer will subscribe to a product/service based on their demographics and past campaign history?
 b.	What is the best combination of factors (age, job, balance, loan status) for identifying high-potential leads?
 
+## Technology Used
+this is sql project. a single query technique was used to run the query coupled with aggregate function which was then used to aggregate large rows of dat
+into a small rows of data given the information we need
+
