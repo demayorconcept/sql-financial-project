@@ -33,6 +33,50 @@ a.	Can we predict whether a customer will subscribe to a product/service based o
 
 b.	What is the best combination of factors (age, job, balance, loan status) for identifying high-potential leads?
 
+## Total Customer that used the bank 
+
+the total number of customer that used our bank amounted to 171783
+
+![](Customer.png)
+
+
+## Total customer with their marital status
+
+the total number of customer based on marital status exploratory data analysis is as follow on mysql output
+
+![](CustomerMaritalS.png)
+
+## Total Customer with their Customer Contact
+
+the total number of customer based on contact exploratory data analysis is as follow on mysql output
+
+![](CustomerContact.png)
+
+## Total Customer with their Customer Education
+
+the total number of customer based on education is as follow on mysql output
+
+![](CustomerEdu.png)
+
+## Total customer with their customer housing
+
+the total number of customer based on housing is as follow on mysql output
+
+![](CustomerHousing.png)
+
+## Total customer with their customer job
+
+the total number of customer based on job description is as follow on msysql output
+
+![](CustomerJob.png)
+
+## Total Customer with their loan
+
+the total number of customer based on loan is as follow on mysql output
+
+![](CustomerLoan.png)
+
+
 ## Technology Used
 this is sql project. a single query technique was used to run the query coupled with aggregate function which was then used to aggregate large rows of dat
 into a small rows of data given the information we need
